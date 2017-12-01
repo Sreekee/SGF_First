@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SGF_First</string>
+    <string name="enterMessage">Please enter your message to toast</string>
+    <string name="sendButton">send</string>
+</resources>
